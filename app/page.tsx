@@ -25,8 +25,8 @@ const startingPosts: Post[] = [
   },
   {
     id: 2,
-    author: "Alex",
-    username: "@alex",
+    author: "Omar",
+    username: "@omar",
     content: "Anyone else finding this week ridiculously long?",
     time: "5m",
     likes: 7,
@@ -34,8 +34,8 @@ const startingPosts: Post[] = [
   },
   {
     id: 3,
-    author: "Jordan",
-    username: "@jordan",
+    author: "Samer",
+    username: "@Samer",
     content:
       "Trying a new coffee place this afternoon. Give me your best coffee order.",
     time: "12m",
